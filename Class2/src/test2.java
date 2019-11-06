@@ -7,6 +7,8 @@ public class test2 {
 		System.out.println("2nd Grade");
 		System.out.println("3rd Grade");
 		System.out.println("20160812");
+		System.out.println("±è¹Î¼ö");
+
 	}
 
 }
